@@ -1,0 +1,1 @@
+sudo python NFC_IOT_3.py -e ****.iot.us-east-1.amazonaws.com -r *****.crt -c ******.cert.pem -k *****.private.key
